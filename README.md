@@ -22,4 +22,8 @@ Clique no botão "Salvar" para adicionar um novo conhecimento ou atualizar um ex
 Verificar se uma imagem foi selecionada. Caso contrário, exibirá uma mensagem de erro.
 Verificar se o campo "Conhecimento" foi preenchido. Caso contrário, exibirá uma mensagem de erro.
 Para excluir um conhecimento, selecione o registro desejado e clique no botão "Excluir".
-Utilize o botão "Fechar" para encerrar o sistema.![image](https://github.com/ERISVAN253031/Banco-de-Imagens/assets/106634122/31744ea6-8db3-47d1-8507-ba9826a900b8)
+Utilize o botão "Fechar" para encerrar o sistema.![image](https://github.com/ERISVAN25
+
+https://github.com/ERISVAN253031/Banco-de-Imagens/assets/106634122/1cfa4a0f-854b-43d9-ab4e-0308a794d390
+
+3031/Banco-de-Imagens/assets/106634122/31744ea6-8db3-47d1-8507-ba9826a900b8)
